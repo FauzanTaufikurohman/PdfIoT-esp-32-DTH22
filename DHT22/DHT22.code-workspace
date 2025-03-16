@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "sensor_jarak",
+			"path": "../sensor_jarak"
+		}
+	],
+	"settings": {}
+}
